@@ -1,0 +1,6 @@
+{
+  "name": "Smart College Assistant (AQVH 2025)",
+  "description": "AI-Powered Digital Campus Companion by Team Avengers for AQVH 2025 Hackathon featuring AI attendance & CGPA predictors, smart study planner, campus navigation & lab tracker, and role portals for students, faculty, parents, and admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
